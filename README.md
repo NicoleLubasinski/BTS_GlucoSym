@@ -1,7 +1,7 @@
 # BTS_GlucoSym
 
 ## Overview
-GlucoSym_BTS processes glucose measurements to isolate postprandial glucose response (PPGR) and perform simulation-based analysis. It combines data preprocessing, physiological modeling, optimization, and clustering to support metabolic research.
+GlucoSym_BTS is a Python-based tool for processing glucose time-series data to isolate the postprandial glucose response (PPGR). It integrates signal processing, ODE-based physiological modeling, optimization, statistical correlation analysis, and hierarchical clustering to study blood glucose dynamics. Designed for metabolic research and data science applications in glycemic variability.
 
 ## Features
 - PPGR isolation from raw glucose signals
